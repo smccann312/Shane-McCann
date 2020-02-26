@@ -1,5 +1,5 @@
 ---
 theme: jekyll-theme-cayman
-title: Welcome to Shane's Homepage!
-description: This a website made as a test.
+title: This is the New Page!
+description: Is new working?
 ---
