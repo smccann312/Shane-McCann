@@ -1,1 +1,1 @@
-theme: jekyll-theme-cayman
+This is the index section
