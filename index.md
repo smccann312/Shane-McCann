@@ -1,1 +1,1 @@
-This is the index section
+<li><a href="home.html">Home</a></li>
